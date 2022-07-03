@@ -1,0 +1,11 @@
+$color-saas:#bf4080;
+$color-saas-80:#bf408080;
+
+.bg-saas{
+    background-color: $color-saas;
+    transition: background-color .5s ease-in-out;
+
+    &:hover{
+        background-color: $color-saas-80;
+    }
+}

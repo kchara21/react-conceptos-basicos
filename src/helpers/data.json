@@ -1,0 +1,29 @@
+{
+    "frameworks":[
+        {
+            "id":0,
+            "name":"React",
+            "web":"https://reactjs.org"
+        },
+        {
+            "id":1,
+            "name":"Angular",
+            "web":"https://angular.io"
+        },
+        {
+            "id":2,
+            "name":"Vue",
+            "web":"https://vuejs.org"
+        },
+        {
+            "id":3,
+            "name":"Polymer",
+            "web":"https://www.polymer-project.org"
+        },
+        {
+            "id":4,
+            "name":"Svelte",
+            "web":"https://svelte.dev"
+        }
+    ]
+}
